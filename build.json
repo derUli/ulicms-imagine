@@ -1,0 +1,10 @@
+{
+	"id": "imagine",
+	"version": "0.7.1",
+	"description": "Object Oriented image manipulation library ",
+	"categories": [
+		"development",
+		"design"
+	],
+	"compatible_from": "2018.2"
+}
